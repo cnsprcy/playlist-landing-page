@@ -1,11 +1,15 @@
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css2?family=Jaldi:wght@700&family=Open+Sans:wght@300&display=swap');
 /* CSS Document */
-body {
-	background-color: #00213A;
+* {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+}
+
+body {
+	background-color: #00213A;
+	outline: none;
 }
 
 .main-logo img {
